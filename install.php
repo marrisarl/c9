@@ -13,3 +13,6 @@ https://www.mediafire.com/file/0obbvx5eoy7iluh/4K_Video_Downloader_4.24.0.5340_2
 
 wallpaper
 https://www.mediafire.com/file/10znwhi43rxwstr/SHIRO+RDP.png/file
+
+rdp wrap
+https://github.com/stascorp/rdpwrap/releases
