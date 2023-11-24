@@ -16,3 +16,6 @@ https://www.mediafire.com/file/10znwhi43rxwstr/SHIRO+RDP.png/file
 
 rdp wrap
 https://github.com/stascorp/rdpwrap/releases
+
+wallaper 2
+https://www.mediafire.com/file/1dm3vvt4yczncti/SHIRO-RDP-2.png/file
