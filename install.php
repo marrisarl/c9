@@ -24,4 +24,4 @@ rdp warp txt
 https://www.mediafire.com/file/iqu5bei2vf5tk2j/rdpwrap.txt/file
 
 wallpaper 3
-https://www.mediafire.com/file/3rutjbrqtdw3pry/SHIRO-RDP-3.png/file
+https://www.mediafire.com/file/ai3w62y8gm4vzw6/SHIRO+RDP.png/file
